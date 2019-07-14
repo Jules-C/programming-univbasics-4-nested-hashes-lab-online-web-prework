@@ -86,7 +86,7 @@ matz =
         }
      }
 
- programmer_hash.unshift(matz)   
+ matz.merge(programmer_hash) 
  
 end
 
